@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "name": "Bhuvan",
+      "designation": "MERN dev",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "praveen",
+      "designation": "game dev"
+    },
+    {
+      "id": 3,
+      "name": "giri",
+      "designation": "true dev"
+    }
+  ]
+}
